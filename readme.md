@@ -1,6 +1,6 @@
 # 디자인 패턴 정리
 [Design Pattern](https://www.notion.so/gentledot/Design-Pattern-73fe5ad1e2324c7db5bd18589b50dc0a)
-페이지에서 사용한 코드를 올려두었음.
+페이지에서 정리한 글에서 사용한 코드를 올려두었음.
 
 ## 자료 출처
 - 강의
